@@ -33,7 +33,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/gallery/cmMBmMG' title='Android Kotlin Debugging' width='' alt='Android Kotlin Debugging' />
+<img src='https://i.imgur.com/yUcWzgQ.gif' title='Android Kotlin Debugging' width='' alt='Android Kotlin Debugging' />
 
 GIF created with **ScreenToGif**
 
